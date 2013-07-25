@@ -1,0 +1,38 @@
+.root {
+     -fx-background-color: radial-gradient(center 50% 50%, radius 60%, reflect, #ADFF2F, black );
+     -fx-background-color: radial-gradient(center 50% 50%, radius 60%, reflect, BLUE, black );
+}
+
+#winnertext {
+    -fx-font: 40px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, #ff00ff 0%, GREEN 50%);
+    -fx-stroke: YELLOW;
+    -fx-stroke-width: 1;
+}
+
+.arrowStyleUp {
+	-fx-stroke: #ff7e79;
+	-fx-fill: #ff7e79;
+    -fx-stroke-width: 1px;
+}
+
+.arrowStyleDown {
+	-fx-stroke: #ff2600;
+	-fx-fill: #ff2600;
+    -fx-stroke-width: 1px;
+}
+
+.arrow-text {
+	-fx-fill: RED;
+	-fx-font-family: Verdana;
+    -fx-font-weight: bold;
+    -fx-font-size: 22;	
+}
+
+.rectangle {
+	-fx-stroke: RED;
+	-fx-fill: TRANSPARENT;
+	-fx-stroke-width: 5;
+	-fx-arc-width: 30;
+	-fx-arc-height: 30;
+}

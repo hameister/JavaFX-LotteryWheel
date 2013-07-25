@@ -1,0 +1,20 @@
+Jean-Luc Picard
+William T. Riker
+Geordi LaForge
+Worf
+Deanna Troi
+Data
+Dr. Beverly Crusher
+Wesley Crusher
+James T. Kirk
+Commander Spock
+Dr. Leonard McCoy
+Montgomery Scott
+Hikaru Sulu
+Nyota Uhura
+Pavel Chekov
+Benjamin Sisko
+Kira Nerys
+Odo
+Jadzia Dax
+Julian Bashir
