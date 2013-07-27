@@ -1,9 +1,8 @@
 JavaFX-LotteryWheel
 ===================
 
-This JavaFX application shows how to use TranslateTransitions, FadeTransitions, Timelines and <em>Timeline chaining</em> to implement a simple lottery wheel where names rotate around a point. 
-The wheel reduces its speed continuously and at the end the winner name is highlighted. The names are loaded from a simple text file and positioned around the middle point. 
-The winner is indicated by an arrow which is created with a <code>Path</code>. The names which are closely to the arrow are bigger than the names which are far away and the color of the <code>Text</code> changes.
+This article shows how to use <code>TranslateTransition</code>s, <code>FadeTransition</code>s, <code>Timeline</code>s and <em>Timeline chaining</em> to implement a simple lottery wheel where names rotate around a point. The wheel reduces its speed continuously and at the end the winner name is highlighted. The names are loaded from a simple text file and positioned around the middle point. The winner is indicated by an arrow which is created with a <code>Path</code>. The <code>Font</code> size and the <code>Color</code> of the names depends on the angle where they are placed around the circle.
+
 
 Further informations and the documentation to this project can be found here [JavaFX-LotteryWheel][]
 
